@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0%;
+}
+
+#beli {
+    background: rgb(112, 174, 224);
+   max-width:auto; 
+   min-height: 70px;
+   margin: auto;
+}
+#beli a {
+    text-decoration: none;
+    background: rgba(241, 67, 204, 0.664);
+    max-width: 50;
+    min-height: 30;
+    font-size: 18px;
+    padding: 20px;
+    display: block;
+}
+.slider img {
+    height:300px;
+    width: 255px;
+}
+#beli ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+#beli  a:hover {
+    background: rgb(220, 233, 46);
+}
+#nosotros{
+   padding:10px;
+   margin: 10px;
+   background: rgb(182, 179, 179);
+}
+#galeria{
+    padding: 10px;
+    margin: 10px;
+    background: rgb(162, 90, 230);
+}
+
+#textocontacto {
+    background: rgb(79, 147, 224);
+   padding:10px ;
+   margin:10px ;
+   
+}
